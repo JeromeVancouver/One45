@@ -1,0 +1,21 @@
+C:\Users\Jeremy\Documents\GitHub\DraftDayGuide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\One45Shapes.exe
+C:\Users\Jeremy\Documents\GitHub\DraftDayGuide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\One45Shapes.pdb
+C:\Users\Jeremy\Documents\GitHub\DraftDayGuide\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Jeremy\Documents\GitHub\DraftDayGuide\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\One45Shapes.Properties.Resources.resources
+C:\Users\Jeremy\Documents\GitHub\DraftDayGuide\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\One45Shapes.csproj.GenerateResource.Cache
+C:\Users\Jeremy\Documents\GitHub\DraftDayGuide\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\One45Shapes.exe
+C:\Users\Jeremy\Documents\GitHub\DraftDayGuide\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\One45Shapes.pdb
+C:\Users\Jeremy\Documents\GitHub\DraftDayGuide\One45 Question 2\WindowsFormsApplication1\obj\x86\Debug\One45Shapes.exe
+C:\Users\Jeremy\Documents\GitHub\DraftDayGuide\One45 Question 2\WindowsFormsApplication1\obj\x86\Debug\One45Shapes.pdb
+C:\Users\Jeremy\Documents\GitHub\DraftDayGuide\One45 Question 2\WindowsFormsApplication1\bin\Debug\One45Shapes.exe
+C:\Users\Jeremy\Documents\GitHub\DraftDayGuide\One45 Question 2\WindowsFormsApplication1\bin\Debug\One45Shapes.pdb
+C:\Users\Jeremy\Documents\GitHub\DraftDayGuide\One45 Question 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Jeremy\Documents\GitHub\DraftDayGuide\One45 Question 2\WindowsFormsApplication1\obj\x86\Debug\One45Shapes.Properties.Resources.resources
+C:\Users\Jeremy\Documents\GitHub\DraftDayGuide\One45 Question 2\WindowsFormsApplication1\obj\x86\Debug\One45Shapes.csproj.GenerateResource.Cache
+C:\Users\Jeremy\Documents\GitHub\One45\One45 Question 2\WindowsFormsApplication1\obj\x86\Debug\One45Shapes.exe
+C:\Users\Jeremy\Documents\GitHub\One45\One45 Question 2\WindowsFormsApplication1\obj\x86\Debug\One45Shapes.pdb
+C:\Users\Jeremy\Documents\GitHub\One45\One45 Question 2\WindowsFormsApplication1\bin\Debug\One45Shapes.exe
+C:\Users\Jeremy\Documents\GitHub\One45\One45 Question 2\WindowsFormsApplication1\bin\Debug\One45Shapes.pdb
+C:\Users\Jeremy\Documents\GitHub\One45\One45 Question 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Jeremy\Documents\GitHub\One45\One45 Question 2\WindowsFormsApplication1\obj\x86\Debug\One45Shapes.Properties.Resources.resources
+C:\Users\Jeremy\Documents\GitHub\One45\One45 Question 2\WindowsFormsApplication1\obj\x86\Debug\One45Shapes.csproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One45Shapes", "WindowsFormsApplication1\One45Shapes.csproj", "{41BE2D74-ED23-409F-9389-1B038CF92108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41BE2D74-ED23-409F-9389-1B038CF92108}.Debug|x86.ActiveCfg = Debug|x86
+		{41BE2D74-ED23-409F-9389-1B038CF92108}.Debug|x86.Build.0 = Debug|x86
+		{41BE2D74-ED23-409F-9389-1B038CF92108}.Release|x86.ActiveCfg = Release|x86
+		{41BE2D74-ED23-409F-9389-1B038CF92108}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
