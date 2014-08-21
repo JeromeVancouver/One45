@@ -1,0 +1,14 @@
+C:\Users\Jeremy\Documents\GitHub\One45\One45_Recurrsion\One45_Recurrsion\bin\Debug\One45_Recurrsion.exe
+C:\Users\Jeremy\Documents\GitHub\One45\One45_Recurrsion\One45_Recurrsion\bin\Debug\One45_Recurrsion.pdb
+C:\Users\Jeremy\Documents\GitHub\One45\One45_Recurrsion\One45_Recurrsion\obj\x86\Debug\One45_Recurrsion.Form1.resources
+C:\Users\Jeremy\Documents\GitHub\One45\One45_Recurrsion\One45_Recurrsion\obj\x86\Debug\One45_Recurrsion.Properties.Resources.resources
+C:\Users\Jeremy\Documents\GitHub\One45\One45_Recurrsion\One45_Recurrsion\obj\x86\Debug\One45_Recurrsion.csproj.GenerateResource.Cache
+C:\Users\Jeremy\Documents\GitHub\One45\One45_Recurrsion\One45_Recurrsion\obj\x86\Debug\One45_Recurrsion.exe
+C:\Users\Jeremy\Documents\GitHub\One45\One45_Recurrsion\One45_Recurrsion\obj\x86\Debug\One45_Recurrsion.pdb
+C:\Users\Jeremy\Documents\GitHub\One45\One45 Question 3\One45_Recurrsion\obj\x86\Debug\One45_Recurrsion.exe
+C:\Users\Jeremy\Documents\GitHub\One45\One45 Question 3\One45_Recurrsion\obj\x86\Debug\One45_Recurrsion.pdb
+C:\Users\Jeremy\Documents\GitHub\One45\One45 Question 3\One45_Recurrsion\bin\Debug\One45_Recurrsion.exe
+C:\Users\Jeremy\Documents\GitHub\One45\One45 Question 3\One45_Recurrsion\bin\Debug\One45_Recurrsion.pdb
+C:\Users\Jeremy\Documents\GitHub\One45\One45 Question 3\One45_Recurrsion\obj\x86\Debug\One45_Recurrsion.fmMain.resources
+C:\Users\Jeremy\Documents\GitHub\One45\One45 Question 3\One45_Recurrsion\obj\x86\Debug\One45_Recurrsion.Properties.Resources.resources
+C:\Users\Jeremy\Documents\GitHub\One45\One45 Question 3\One45_Recurrsion\obj\x86\Debug\One45_Recurrsion.csproj.GenerateResource.Cache
