@@ -114,9 +114,32 @@ namespace WindowsFormsApplication1
 
         }
 
+        private string GetTabs(int t)
+        {
+            string tString = "";
+            for (int i = 0; i < t; i++)
+                tString += "  ";
+            return tString;
+        }
+
+        private void PrintArray(string[] arr, int level)
+        {
+            int maxSize = arr.Length-1;
+            string tab = GetTabs(level);
+            lbOutput.Items.Add(tab + "<" + arr[level] + ">");
+            if (level < maxSize)
+            {
+                PrintArray(arr, ++level);
+                lbOutput.Items.Add(tab + "</" + arr[level] + ">");
+            } 
+        }
+
         private void btBrowse_Click(object sender, EventArgs e)
         {
-            tbFile.Text = "";
+
+            string[] theArray = { "a", "b", "c", "d", "e", "f" };
+            PrintArray(theArray, 0);
+            /*tbFile.Text = "";
             lbOutput.Items.Clear();
             OpenFileDialog dialog = new OpenFileDialog();
             dialog.Filter = "*.csv | *.*";
@@ -177,7 +200,7 @@ namespace WindowsFormsApplication1
                     }
                     lbOutput.Items.Add(output);
                 }
-            } 
+            } */
         }
     }
 }

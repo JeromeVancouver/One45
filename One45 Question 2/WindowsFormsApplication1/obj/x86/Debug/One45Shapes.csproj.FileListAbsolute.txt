@@ -19,3 +19,4 @@ C:\Users\Jeremy\Documents\GitHub\One45\One45 Question 2\WindowsFormsApplication1
 C:\Users\Jeremy\Documents\GitHub\One45\One45 Question 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\Jeremy\Documents\GitHub\One45\One45 Question 2\WindowsFormsApplication1\obj\x86\Debug\One45Shapes.Properties.Resources.resources
 C:\Users\Jeremy\Documents\GitHub\One45\One45 Question 2\WindowsFormsApplication1\obj\x86\Debug\One45Shapes.csproj.GenerateResource.Cache
+C:\Users\Jeremy\Documents\GitHub\One45\One45 Question 2\WindowsFormsApplication1\obj\x86\Debug\One45Shapes.csprojResolveAssemblyReference.cache
